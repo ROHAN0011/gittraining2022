@@ -2,4 +2,4 @@ apple
 banana
 cherry
 pinapple
-walnuts
+english walnuts
