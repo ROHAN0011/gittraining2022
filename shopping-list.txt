@@ -3,3 +3,5 @@ banana
 cherry
 pinapple
 english walnuts
+cucumber
+bringel
