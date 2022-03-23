@@ -6,3 +6,4 @@ english walnuts
 cucumber
 bringel
 potato
+tomato
